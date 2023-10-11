@@ -4,4 +4,6 @@
 dev.db
 *.o
 .vscode
-.graphql
+
+
+schema.graphql
